@@ -30,8 +30,7 @@ A simple and elegant **music streaming web app** where users can explore and lis
 🧑‍💻 Author
 Harini A
 📧 harinii2415@gmail.com
-🌐 Portfolio
-💼 LinkedIn
+
 
 
 
